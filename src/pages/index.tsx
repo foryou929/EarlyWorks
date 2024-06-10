@@ -57,7 +57,7 @@ export default function Home() {
         <Image className="hidden lg:block absolute left-[931.57px] top-0"
           src={logo_dark_nt} alt="logo_dark_nt" height={820} />
       </div>
-      <div className="p-[24px_40px] lg:p-[100px_170px] flex flex-col gap-[48px]">
+      <div className="p-[24px_40px] lg:p-[100px_170px] bg-light flex flex-col gap-[48px]">
         <div className="flex flex-col gap-[32px]">
           <div className="flex flex-col-reverse lg:flex-row gap-[12px] lg:items-end">
             <h2 className={classNames(
