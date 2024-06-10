@@ -62,14 +62,14 @@ export default function Home() {
           <div className="flex flex-col-reverse lg:flex-row gap-[12px] lg:items-end">
             <h2 className={classNames(
               barlow500.className,
-              "text-[39px] lg:text-[56px] text-black"
+              "text-[39px] lg:text-[56px] text-black leading-[34px]"
             )}>
               Members
             </h2>
             <h3 className={
               classNames(
                 notoSansJP700.className,
-                "text-[12px] lg:text-[20px] text-black"
+                "text-[12px] lg:text-[20px] text-black leading-[10px]"
               )
             }>
               人を知る
