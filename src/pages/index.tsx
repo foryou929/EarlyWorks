@@ -112,7 +112,7 @@ export default function Home() {
               <p className={classNames(
                 "h-[34px]",
                 barlow500.className,
-                "text-[48px]"
+                "text-[48px] text-black"
               )}>
                 Satoshi Kobayashi
               </p>
